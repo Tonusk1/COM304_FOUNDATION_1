@@ -3,9 +3,9 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2024 | 
-| Student Name | |
-| Student Number | |
-| Github Account | |
+| Student Name |Chong Ree|
+| Student Number |Q102632806|
+| Github Account |Tonusk1|
 
 ## Introduction
 
