@@ -25,6 +25,14 @@ session 7 Installed apache 2 web server on Raspberry Pi Practical work
 
 session 8 (consolidate) Lecturer absent Signed up to cyber security course
 
+session 9 Intro to networking https://www.youtube.com/watch?v=3QhU9jd03a0
+
+session 10 Signed up for Azure Cloud account Made a virtual machin
+
+session 11 Work on personal record
+
+session 12 (consolidate) Catch up and review past sessions
+
 
 ## personal notes
 
